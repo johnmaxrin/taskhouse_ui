@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000877227523",
+    "firebase_url": "https://taskhouse-1c835.firebaseio.com",
+    "project_id": "taskhouse-1c835",
+    "storage_bucket": "taskhouse-1c835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000877227523:android:02b4336cbec0e15f929836",
+        "android_client_info": {
+          "package_name": "com.taskhouse.link_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000877227523-3s6o65slrdq9vo1upfuie2ma365h3k8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskhouse.link_ui",
+            "certificate_hash": "4e5b6e127f5d97e1ce3b1c44207d0ca74e06d6a7"
+          }
+        },
+        {
+          "client_id": "1000877227523-c1l5geidj18smg66qg07c0rn4l0s1a63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJBzxOX9BhKgBgQw7ao9EUatOSviDxAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000877227523-c1l5geidj18smg66qg07c0rn4l0s1a63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
